@@ -147,7 +147,7 @@
             this.cboWeapons.Name = "cboWeapons";
             this.cboWeapons.Size = new System.Drawing.Size(147, 32);
             this.cboWeapons.TabIndex = 9;
-            this.cboWeapons.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            //this.cboWeapons.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // cboPotions
             // 
@@ -308,7 +308,7 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "SuperAdventure";
             this.Text = "My Game";
-            this.Load += new System.EventHandler(this.SuperAdventure_Load);
+            //this.Load += new System.EventHandler(this.SuperAdventure_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvInventory)).EndInit();
             this.ResumeLayout(false);

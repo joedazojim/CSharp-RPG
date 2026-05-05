@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Engine/Engine.csproj" />
-  <Project Path="SuperAdventure/SuperAdventure.csproj" />
+  <Project Path="Engine/Engine.csproj" Id="7698a365-7406-49f2-a2dd-52ca7176f3a7" />
+  <Project Path="SuperAdventure/SuperAdventure.csproj" Id="4f467614-0fde-46fe-aa8e-0c438600419b" />
 </Solution>

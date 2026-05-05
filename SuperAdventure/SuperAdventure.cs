@@ -18,7 +18,6 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-            _player = new Player();
 
             Location location = new Location(1, "Home", "This is your house.");
 
